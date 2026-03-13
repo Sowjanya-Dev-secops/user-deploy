@@ -1,0 +1,5 @@
+deployment:
+  imagerepo: muppalasowjanya/catalogue
+  imageversion: v1
+service:
+  servicePort: 80 #default values
